@@ -27,5 +27,5 @@ If your interested in any of my projects here is currently what I am working on;
 
 If you're interested in my work, or want to reach out you can do so at
 
-jonah.dacosta@dacostaconsulting.ca or at my website - jonahdacosta.com
+jonah.dacosta@dacostaconsulting.ca or at my website - https://jonahdacosta.com
 
