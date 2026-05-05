@@ -21,6 +21,7 @@ On the side I like to ride motorcycles and do security research for open sourced
 Currently I have 2 CVEs credited to me, these are both for the open sourced security app, SocFortress Copilot;
 - CVE-2026-42868 
 - CVE-2026-42869
+- CVE-2026-44254
 
 If your interested in any of my projects here is currently what I am working on;
 - [prow-sh](https://github.com/Chimppppy/prow-sh) | A unified control plane for SecOps teams to connect tools, normalize data to a common schema, and operate with auditability
