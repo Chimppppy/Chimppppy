@@ -16,9 +16,7 @@
 Im Jonah / Chimp, im a 20 year old Cyber Security student, and business owner. I currently am enrolled in Cyber Security CO-OP program at Fanshawe and run 2 companies. 
 I run DaCosta Consulting which is my marketing / web agency, and LotWire, the all-in-one SaaS platform for independent automotive dealers inventory, pricing intelligence, and dealer ops in one place.
 
-On the side I like to ride motorcycles and do security research for open sourced projects.
-
-Currently I have 3 CVEs credited to me, these are both for the open sourced security app, SocFortress Copilot;
+On the side I like to ride motorcycles and do security research for open sourced projects. These are all for various open sourced security projects
 - CVE-2026-42868 
 - CVE-2026-42869
 - CVE-2026-44254
