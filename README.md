@@ -18,7 +18,7 @@ I run DaCosta Consulting which is my marketing / web agency, and LotWire, the al
 
 On the side I like to ride motorcycles and do security research for open sourced projects.
 
-Currently I have 2 CVEs credited to me, these are both for the open sourced security app, SocFortress Copilot;
+Currently I have 3 CVEs credited to me, these are both for the open sourced security app, SocFortress Copilot;
 - CVE-2026-42868 
 - CVE-2026-42869
 - CVE-2026-44254
