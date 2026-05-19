@@ -9,9 +9,6 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://jonahdacosta.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonah.dacosta@dacostaconsulting.ca)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chimppppy&style=for-the-badge&color=0A66C2)
-[![GitHub followers](https://img.shields.io/github/followers/Chimppppy?style=for-the-badge&logo=github&color=181717)](https://github.com/Chimppppy)
-
 </div>
 Im Jonah / Chimp, im a 20 year old Cyber Security student, and business owner. I currently am enrolled in Cyber Security CO-OP program at Fanshawe and run 2 companies. 
 
