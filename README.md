@@ -2,7 +2,6 @@
 
 # Hello, I'm Jonah 👋
 
-### `Cyber Security Student` · `Founder` · `Security Researcher`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonah-dacosta-452652239/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dacostajonah)
