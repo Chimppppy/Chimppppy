@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonah.dacosta@dacostaconsulting.ca)
 
 </div>
-Im Jonah / Chimp, im a 21 year old Cyber Security student, and business owner. I currently am enrolled in Cyber Security CO-OP program at Fanshawe and run 2 companies. 
+Im Jonah / Chimp, im a 21 year old Cyber Security student, and business owner. I currently am enrolled in Cyber Security CO-OP program at Fanshawe and run 2 companies and a few projects. 
 
 I run DaCosta Consulting which is my marketing / web agency, and LotWire, the all-in-one SaaS platform for independent automotive dealers inventory, pricing intelligence, and dealer ops in one place.
 
@@ -18,9 +18,6 @@ On the side I like to ride motorcycles and do security research for open sourced
 - CVE-2026-42868 
 - CVE-2026-42869
 - CVE-2026-44254
-
-If your interested in any of my projects here is currently what I am working on;
-- [prow-sh](https://github.com/Chimppppy/prow-sh) | A unified control plane for SecOps teams to connect tools, normalize data to a common schema, and operate with auditability
 
 If you're interested in my work, or want to reach out you can do so at
 
